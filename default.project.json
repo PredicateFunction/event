@@ -1,4 +1,6 @@
 {
   "name": "event",
-  "$path" : "lib"
+  "tree" : {
+    "$path" : "lib"
+  }
 }
